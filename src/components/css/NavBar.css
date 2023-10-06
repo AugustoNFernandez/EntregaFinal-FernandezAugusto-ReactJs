@@ -1,0 +1,50 @@
+
+.navContainer {
+    max-width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #BFA17E;
+    align-self: center;
+    max-width: 1300px;
+    
+
+  }
+  .logoHead {
+    display: flex;
+    justify-content: center;
+    max-width: 1300px;
+    width: 1300px;
+
+    
+  }
+  .menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 60px;
+    gap: 10px;
+    padding-right: 15px;
+    font-size: 22px;
+    max-width: 1300px;
+    background-color: rgb(158, 134, 106);
+  }
+  .lista {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-right: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(36, 36, 36);
+  }
+  a:hover {
+    color: rgb(136, 114, 89);
+  }
+  
+  .numberInCart {
+    color: crimson;
+    font-weight: bold;
+        
+  }

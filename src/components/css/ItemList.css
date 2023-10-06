@@ -1,0 +1,19 @@
+.container{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.titular{
+    height: 8%;
+    padding-top: 15px;
+    color:rgb(51, 51, 51);
+    font-size: 50px;
+}
+
+.item-list{
+    display: grid;
+    grid-template-columns: repeat( 4 , 1fr);
+    gap: 20px;
+    padding-top: 3%;
+    
+}

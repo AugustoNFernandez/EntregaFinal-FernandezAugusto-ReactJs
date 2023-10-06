@@ -1,0 +1,47 @@
+.containerCart{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 8%;
+    padding-top: 15px;
+    flex-flow: column wrap;
+    color: rgb(51, 51, 51)
+}
+
+.imgDetailCart{
+    padding-left: 15px;
+    height: 180px;
+    width: auto;
+}
+.btn-cart-fin{
+    display: flex;
+    flex-direction: row;
+}
+.container-item-cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 40px;
+    background-color: rgb(181, 151, 120);
+    padding: 15px 15px 15px 5px;
+
+}
+.column-cart{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.tit-aut{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
+.price-btn{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}

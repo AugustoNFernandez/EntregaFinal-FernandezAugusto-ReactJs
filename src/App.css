@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+.containerGral{
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+    
+body {
+  background-color: #bfa17e;
+  height: auto;
+}

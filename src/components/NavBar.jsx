@@ -7,7 +7,7 @@ export default function NavBar() {
     <header className="navContainer">
       <section>
         <Link to="/">
-          <img src="src/components/img/LogoHead.svg" alt="LogoHead" className="logoHead"/>
+          <img src="../LogoHead.svg" alt="LogoHead" className="logoHead"/>
         </Link>
       </section>
       <nav className="menu">

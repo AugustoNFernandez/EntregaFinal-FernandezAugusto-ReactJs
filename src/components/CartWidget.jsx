@@ -10,7 +10,7 @@ export default function CartWidget() {
     return (
       <>
         <Link to="/cart" ><img
-          src="/src/components/img/cart.svg"
+          src="../cart.svg"
           alt="carrito"
           style={{ width: 45, height: 45 }}
         /></Link>
